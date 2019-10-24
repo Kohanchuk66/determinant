@@ -1,0 +1,10 @@
+E:\Детерминант\Детерминант\obj\Debug\Детерминант.csprojAssemblyReference.cache
+E:\Детерминант\Детерминант\obj\Debug\Детерминант.Form1.resources
+E:\Детерминант\Детерминант\obj\Debug\Детерминант.MDIParent1.resources
+E:\Детерминант\Детерминант\obj\Debug\Детерминант.Properties.Resources.resources
+E:\Детерминант\Детерминант\obj\Debug\Детерминант.csproj.GenerateResource.cache
+E:\Детерминант\Детерминант\bin\Debug\Детерминант.exe.config
+E:\Детерминант\Детерминант\bin\Debug\Детерминант.exe
+E:\Детерминант\Детерминант\bin\Debug\Детерминант.pdb
+E:\Детерминант\Детерминант\obj\Debug\Детерминант.exe
+E:\Детерминант\Детерминант\obj\Debug\Детерминант.pdb
